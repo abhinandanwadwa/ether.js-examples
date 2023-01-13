@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "ethers": "^5.7.2"
+  },
+  "name": "ether.js-examples",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhinandanwadwa/ether.js-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhinandanwadwa/ether.js-examples/issues"
+  },
+  "homepage": "https://github.com/abhinandanwadwa/ether.js-examples#readme",
+  "description": ""
+}
